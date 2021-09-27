@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikita0708
-- 👀 I’m interested in Erning money by every chance
+- 👀 I’m interested in erning money by every chance
 - 🌱 I’m currently learning Coding 
-- 💞️ I’m looking to collaborate on Coding
+- 💞️ I’m looking to collaborate on Coding.
 - 📫 How to reach me nreva97@gmail.com
 
 <!---
