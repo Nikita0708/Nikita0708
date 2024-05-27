@@ -36,9 +36,7 @@
 <img align="left" alt="GitHub" width="32px" src="https://www.freeiconspng.com/thumbs/github-icon/git-github-hub-icon-25.png" />
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<div align="center">
-  
-</div>
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/nikitareva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikitareva" height="30" width="40" /></a>&nbsp;
