@@ -3,7 +3,7 @@
   
 </div>
 
-<h3 align="center">Full Stack Developer from Ukraine</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 My projects: [MindConnect](https://github.com/Nikita0708/mind-connect-front-end), [Eatly](https://nikita0708.github.io/eatly/), [Power Pulse](https://kostarusin.github.io/power-pulse-front-end-react/),
 
