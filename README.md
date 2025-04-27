@@ -5,7 +5,7 @@
 
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 My projects: [MindConnect](https://github.com/Nikita0708/mind-connect-front-end), [Eatly](https://nikita0708.github.io/eatly/), [Power Pulse](https://kostarusin.github.io/power-pulse-front-end-react/),
+- 🔭 My latest project: [Poxels](https://playpoxels.xyz/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikita0708&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" width="360" alt="stats graph"  />
